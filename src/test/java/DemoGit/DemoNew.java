@@ -8,6 +8,7 @@ public class DemoNew
 
 public void demo()
 {
-System.out.println("second commit");	
+System.out.println("second commit");
+System.out.println("Third commit");
 }
 }
