@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="145" started-at="2022-03-11T16:30:49Z" finished-at="2022-03-11T16:30:49Z">
+  <suite name="Default suite" duration-ms="99" started-at="2022-03-11T17:44:22Z" finished-at="2022-03-11T17:44:22Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="145" started-at="2022-03-11T16:30:49Z" finished-at="2022-03-11T16:30:49Z">
-      <class name="DemoGit.DemoNew">
-        <test-method status="PASS" signature="demo()[pri:0, instance:DemoGit.DemoNew@5034c75a]" name="demo" duration-ms="22" started-at="2022-03-11T16:30:49Z" finished-at="2022-03-11T16:30:49Z">
+    <test name="Default test" duration-ms="99" started-at="2022-03-11T17:44:22Z" finished-at="2022-03-11T17:44:22Z">
+      <class name="DemoGit.Sample">
+        <test-method status="PASS" signature="demo()[pri:0, instance:DemoGit.Sample@5034c75a]" name="demo" duration-ms="14" started-at="2022-03-11T17:44:22Z" finished-at="2022-03-11T17:44:22Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- demo -->
-      </class> <!-- DemoGit.DemoNew -->
+      </class> <!-- DemoGit.Sample -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
