@@ -8,5 +8,7 @@ public class Sample
 public void demo()
 {
 System.out.println("Heyyy");	
+
+System.out.println("haii");
 }
 }
